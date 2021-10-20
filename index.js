@@ -1,4 +1,11 @@
+let message = {
+    name: undefined,
+    address: null,
+    age: 32,
+}; //Объявление переменной
 
-let message = 'Я же програмист'; //Объявление и Инициализация переменной
+alert( message.name );
 
-alert( message ); 
+alert( message.address ); 
+
+alert( message.age ); 
