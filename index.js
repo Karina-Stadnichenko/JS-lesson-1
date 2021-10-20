@@ -1,7 +1,7 @@
 let message = {
     name: undefined,
     address: null,
-    age: 32,
+    age: 34,
 }; //Объявление переменной
 
 alert( message.name );
