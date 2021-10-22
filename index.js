@@ -53,11 +53,15 @@
 
 //alert(string - number);
 
-const str = "stroka";
-console.log(str);
+//const str = "stroka";
+//console.log(str);
 
-const num = 2;
-console.log(num);
+//const num = 100;
+//console.log(num);
+
+//const bool = true;
+
+//console.log(num - bool);
 
 //const bool = true;
 //console.log(bool);
@@ -69,3 +73,11 @@ console.log(num);
 //console.log(undefinedValue);
 
 //console.log(1 + Number('nullValue'));
+
+
+/////////////////////////
+
+
+//const variable = false;
+
+//console.log(typeof variable - 2);
